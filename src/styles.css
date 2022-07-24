@@ -22,17 +22,17 @@ margin-top: 10px;
     
 }
 .Loginbtn{
-    padding: 10px;
-    background-color:black;
-    width:120px;
-    color:white;
-    align-self: center;
-    text-align:center;
-    border-radius: 20px;
-    border: black;
-    position: absolute;
-left: 50%;
-transform: translateX(-50%);
-margin-top: 70px;
+               position: absolute;
+width: 172px;
+height: 41px;
+left: 101px;
+top: 503px;
+
+background: linear-gradient(100.6deg, rgba(124, 141, 235, 0.4) 31.69%, rgba(124, 141, 235, 0.2) 57.88%);
+backdrop-filter: blur(70px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 70px;
+border: 0;
 
 }
